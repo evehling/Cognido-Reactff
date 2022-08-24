@@ -227,7 +227,7 @@
   flex-direction: row;
 }
 .home-section2 {
-  background-color: var(--dl-color-scheme-green100);
+  background-color: var(--dl-color-scheme-orange80);
 }
 .home-max-width4 {
   align-items: stretch;
@@ -548,7 +548,7 @@
 }
 .home-banner {
   width: 100%;
-  height: 508px;
+  height: 278px;
   display: flex;
   padding: var(--dl-space-space-fourunits);
   align-items: center;
